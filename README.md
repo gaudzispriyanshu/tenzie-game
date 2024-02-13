@@ -27,7 +27,7 @@ Tenzie is a simple and fun dice game built with React. Roll the dice and try to 
     ```bash
     npm start
     
-Open your browser and visit http://localhost:3000 to access the Meme Generator.
+Open your browser and visit http://localhost:3000 to access the Game.
 
 ## Contributions
 
